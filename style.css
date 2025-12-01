@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tasbih {
+  background-color: rgb(162, 162, 231);
+  text-align: center;
+  height: 150px;
+}
+
+.second-line {
+background-color: aqua;
+height: 150px;
+display: flex;
+justify-content: center;
+}
+
+.counter {
+  width: 150px;
+  height: 150px;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  font-size: 140px;
+}
+
+.btn-container {
+background-color: beige;
+height: 150px;
+display: flex;
+justify-content: center;
+}
+
+.increase, .reset, .decrease {
+  width: 100px;
+  height: 100px;
+}
